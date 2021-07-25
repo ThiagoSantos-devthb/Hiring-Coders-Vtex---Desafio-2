@@ -205,6 +205,8 @@ aqui a soma total de todos os produtos.
         <td >R$`+ total + `</td>
         `;
 ```
+![Carrinho](https://github.com/ThiagoSantos-devthb/Hiring-Coders-Vtex---Desafio-2/blob/main/images/carrinho.png)
+
 Uma função enviaPedido pega o objeto cliente e o carrinho de compras e adiciona ao finalizaCart
 ```sh
 enviaPedido = () => {
