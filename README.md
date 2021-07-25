@@ -111,6 +111,8 @@ inicializarLoja = () => {
     })
 }
 ```
+![Logo do Markdown](image/produtos.png)
+
 Foi criado uma função para varrer os produtos e verificar qual foi pressioando o botao adicionar ao carrinho. Quando pressionado pega a key do produto e incrementa no item quantidade.
 
 
