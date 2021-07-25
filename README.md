@@ -111,7 +111,7 @@ inicializarLoja = () => {
     })
 }
 ```
-![Logo do Markdown](image/produtos.png)
+![Produtos](https://github.com/ThiagoSantos-devthb/Hiring-Coders-Vtex---Desafio-2/blob/main/images/produtos.png)
 
 Foi criado uma função para varrer os produtos e verificar qual foi pressioando o botao adicionar ao carrinho. Quando pressionado pega a key do produto e incrementa no item quantidade.
 
