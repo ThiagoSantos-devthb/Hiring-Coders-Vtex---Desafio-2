@@ -1,7 +1,7 @@
 # Desafio 2 Bootcamp Hiring Coders - Gama Academy-VTEX
 ## O desafio consiste em criar um inventário de um e-commerce e salvar os dados no localstorage
 
-
+(https://gallant-mccarthy-1aebe7.netlify.app)
 
 ## Técnologias
 Para esse projeto foram usados Javascript, CSS e Html.
