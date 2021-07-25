@@ -219,7 +219,7 @@ enviaPedido = () => {
     }
 }
 ```
-pressionar o botão finalizar  e o carrinho possuir pelo menos um item será adicionado ao localstorage.
+Ao pressionar o botão finalizar  e o carrinho possuir pelo menos um item será adicionado ao localstorage.
 ```sh
 if (Finalcart.length !== 0) {
         localStorage.setItem('cart', JSON.stringify(finalizaCart));
